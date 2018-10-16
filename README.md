@@ -1,4 +1,4 @@
-<strong> THP WEEK 2 / TUESDAY: PORJET TIC TAC TOE <strong>
+<strong> THP WEEK 2 / TUESDAY: PROJET TIC TAC TOE <strong>
 
 Ne pas oublier le *BUNDLE INSTALL* avant de lancer le programme.
 
