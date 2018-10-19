@@ -1,3 +1,6 @@
+
+[![GuardRails badge](https://badges.production.guardrails.io/TheLondonWhale/THP_Week_3_TicTacToe.svg)](https://www.guardrails.io)
+
 <strong> THP WEEK 2 / TUESDAY: PROJET TIC TAC TOE <strong>
 
 Ne pas oublier le *BUNDLE INSTALL* avant de lancer le programme.
